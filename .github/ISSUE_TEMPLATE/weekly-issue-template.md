@@ -1,8 +1,8 @@
 ---
 name: weekly issue template
-about: 매주 알고리즘 스터디를 위한 이슈 템플릿
+about: 매주 과제를 위한 이슈 템플릿
 title: "[sohyun/ggyul/ALL]"
-labels: ''
+labels: "\U0001F5D3  weekly"
 assignees: ''
 
 ---
