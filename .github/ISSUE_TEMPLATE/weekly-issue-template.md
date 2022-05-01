@@ -2,7 +2,7 @@
 name: weekly issue template
 about: 매주 과제를 위한 이슈 템플릿
 title: "[sohyun/ggyul/ALL]"
-labels: "\U0001F5D3  weekly"
+labels: "help wanted, \U0001F64B question, \U0001F5D3  weekly"
 assignees: ''
 
 ---
