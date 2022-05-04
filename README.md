@@ -6,7 +6,7 @@
 
 | 주차  | 소현                                                 |      | 현정  |      |
 | ----- | ---------------------------------------------------- | ---- | ----- | ---- |
-| 1주차 | [수학](https://github.com/goldggyul/algorithm-study) |      | Array |      |
+| 1주차 | [수학](https://github.com/goldggyul/algorithm-study) |      | [Array](https://github.com/goldggyul/algorithm-study/tree/main/leetcode/ggyul/array) |      |
 
 
 
