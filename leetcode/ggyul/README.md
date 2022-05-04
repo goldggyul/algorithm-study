@@ -9,3 +9,5 @@
 | Matrix              | 4    |      |
 | String              | 10   |      |
 | Tree                | 14   |      |
+| Heap                | 3    |      |
+| ✨                  | 71   |      |
