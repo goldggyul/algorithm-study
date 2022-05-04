@@ -1,6 +1,6 @@
 | 분류                | 문제 | 완료 |
 | ------------------- | ---- | ---- |
-| Array               | 10   |      |
+| [Array](https://github.com/goldggyul/algorithm-study/tree/main/leetcode/ggyul/array)               | 10   |      |
 | Binary              | 5    |      |
 | Dynamic Programming | 11   |      |
 | Graph               | 5    |      |
