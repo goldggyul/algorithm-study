@@ -17,14 +17,14 @@ class Solution {
     // 2. O(N): hashmap 사용
     public int[] twoSum2(int[] nums, int target) {
         int[] result = new int[2];
-        Map<Integer, Integer> map = new HashMap<>();
+        Map<Integer, Integer> preValues = new HashMap<>();
         for (int i = 0; i < nums.length; i++) {
-            if (map.containsKey(target - nums[i])) {
-                result[0] = map.get(target - nums[i]);
+            if (preValues.containsKey(target - nums[i])) {
+                result[0] = preValues.get(target - nums[i]);
                 result[1] = i;
                 return result;
             }
-            map.put(nums[i], i);
+            preValues.put(nums[i], i);
         }
         return result;
     }
