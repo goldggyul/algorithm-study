@@ -2,4 +2,5 @@
 | ------------------- | ---- |  ---- |
 | Math | [더하기 사이클](https://www.acmicpc.net/problem/1110) | ✅
 |      | [진법 변환](https://www.acmicpc.net/problem/2745) | ✅
+|      | [피로도](https://www.acmicpc.net/problem/22864)| ✅
 
