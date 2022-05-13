@@ -6,7 +6,7 @@
 |       | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | :white_check_mark: | Medium |
 |       | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | :white_check_mark: |Easy|
 |       | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) |:white_check_mark:| Medium       |
-|       | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) |                    |        |
+|       | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | :white_check_mark: | Medium |
 |       | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) |                    |        |
 |       | [3Sum](https://leetcode.com/problems/3sum/) |                    |        |
 |       | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) |                    |        |
