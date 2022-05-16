@@ -1,6 +1,6 @@
 | 분류 | 문제 이름          | 완료 |
 | ------------------- | ---- |  ---- |
-| Math | [더하기 사이클](https://www.acmicpc.net/problem/1110) | ✅
-|      | [진법 변환](https://www.acmicpc.net/problem/2745) | ✅
-|      | [피로도](https://www.acmicpc.net/problem/22864)| ✅
-
+| Math | [더하기 사이클(1110)](https://www.acmicpc.net/problem/1110) | ✅
+|      | [진법 변환(2745)](https://www.acmicpc.net/problem/2745) | ✅
+|      | [피로도(22864)](https://www.acmicpc.net/problem/22864)| ✅
+|      | [공약수(5618)](https://www.acmicpc.net/problem/5618)| ✅
