@@ -10,3 +10,4 @@
 |      | [소수 찾기(1978)](https://www.acmicpc.net/problem/1978)| ✅
 |      | [소인수분해(11653)](https://www.acmicpc.net/problem/11653)| ✅
 |      | [에라토스테네스의 체(2960)](https://www.acmicpc.net/problem/2960)| ✅
+|      | [LCM(5347)](https://www.acmicpc.net/problem/5347)| ✅
