@@ -2,6 +2,7 @@
 #include <string>
 #include <vector>
 #include <iostream>
+#include <algorithm>
 using namespace std;
 
 int answer = 0;
@@ -38,34 +39,15 @@ bool isPossible() {
     return true;
 }
 
-void permutation(int depth, int n, int r) {
-    if (depth == r) { // 순열 끝
-        // 전체 조건 검사
-        if (isPossible()) {
-            answer++;
-        }
-        return;
-    }
-    for (int i = depth; i < n; i++) {
-        char temp = friends[depth];
-        friends[depth] = friends[i];
-        friends[i] = temp;
-        
-        permutation(depth + 1, n, r);
-        
-        temp = friends[depth];
-        friends[depth] = friends[i];
-        friends[i] = temp;
-    }
-
-}
-
 int solution(int n, vector<string> data) {
     answer = 0;
     condition = data;
     friends = "ACFJMNRT";
-
-    permutation(0, 8, 8);
     
+    do {
+        if (isPossible())
+            answer++;
+    } while (next_permutation(friends.begin(), friends.end()));
+
     return answer;
 }
