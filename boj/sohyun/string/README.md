@@ -10,4 +10,4 @@
 | 8 | [ 그룹 단어 체커 (1316)](https://www.acmicpc.net/problem/1316) | ✅ |
 | 9 | [ 나는 친구가 적다(16171)](https://www.acmicpc.net/problem/16171) | ✅ |
 | 10 | [ 비밀번호 발음하기 (4659)](https://www.acmicpc.net/problem/4659) | ✅ |
-
+| 11 | [ 부분 문자열 (6550)](https://www.acmicpc.net/problem/6550) | ✅ |
