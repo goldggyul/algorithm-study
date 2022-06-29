@@ -2,6 +2,8 @@
 #include <vector>
 using namespace std;
 
+// a, b의 최대공약수와, b, a%b의 최대공약수는 같다.
+// (a,b)->(b,a%b)->...(gcd, 0)
 int GCD(int a, int b) {
     if (b == 0) return a;
     return GCD(b, a % b);
