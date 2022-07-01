@@ -12,3 +12,6 @@
 |      | [에라토스테네스의 체(2960)](https://www.acmicpc.net/problem/2960)| ✅
 |      | [LCM(5347)](https://www.acmicpc.net/problem/5347)| ✅
 |      | [다음 소수(4134)](https://www.acmicpc.net/problem/4134)| ✅
+|      | [서로소 평균(21920)](https://www.acmicpc.net/problem/21920)| ✅
+|      | [GCD 합(9613)](https://www.acmicpc.net/problem/9613)| ✅
+|      | [소수 최소 공배수(21919)](https://www.acmicpc.net/problem/21919)| ✅
