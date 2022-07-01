@@ -15,3 +15,4 @@
 |      | [서로소 평균(21920)](https://www.acmicpc.net/problem/21920)| ✅
 |      | [GCD 합(9613)](https://www.acmicpc.net/problem/9613)| ✅
 |      | [소수 최소 공배수(21919)](https://www.acmicpc.net/problem/21919)| ✅
+|      | [소수&팰린드롬(1747)](https://www.acmicpc.net/problem/1747)| ✅
