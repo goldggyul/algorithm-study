@@ -7,4 +7,5 @@
 |  5  | [카드2 (2164)](https://www.acmicpc.net/problem/2164) |  ✅  |
 |  6  | [덱 (10866)](https://www.acmicpc.net/problem/10866) |  ✅  |
 |  7  | [후위 표기식2 (1935)](https://www.acmicpc.net/problem/1935) |  ✅  |
-|  7  | [스택 수열 (1874)](https://www.acmicpc.net/problem/1874) |  ✅  |
+|  8  | [스택 수열 (1874)](https://www.acmicpc.net/problem/1874) |  ✅  |
+|  9  | [프린터 큐 (1966)](https://www.acmicpc.net/problem/1966) |  ✅  |
