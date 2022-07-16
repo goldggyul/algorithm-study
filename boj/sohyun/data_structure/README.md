@@ -9,3 +9,4 @@
 |  7  | [후위 표기식2 (1935)](https://www.acmicpc.net/problem/1935) |  ✅  |
 |  8  | [스택 수열 (1874)](https://www.acmicpc.net/problem/1874) |  ✅  |
 |  9  | [프린터 큐 (1966)](https://www.acmicpc.net/problem/1966) |  ✅  |
+|  10  | [쇠막대기 (10799)](https://www.acmicpc.net/problem/10799) |  ✅  |
