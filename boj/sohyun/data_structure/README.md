@@ -10,3 +10,4 @@
 |  8  | [스택 수열 (1874)](https://www.acmicpc.net/problem/1874) |  ✅  |
 |  9  | [프린터 큐 (1966)](https://www.acmicpc.net/problem/1966) |  ✅  |
 |  10  | [쇠막대기 (10799)](https://www.acmicpc.net/problem/10799) |  ✅  |
+|  11  | [풍선 터뜨리기 (2346)](https://www.acmicpc.net/problem/2346) |  ✅  |
